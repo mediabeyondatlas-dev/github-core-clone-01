@@ -1,0 +1,1 @@
+{"description":"A standalone GitHub-compatible git forge in one process (REST v3, GraphQL, MCP, git smart HTTP).","license":"MIT","name":"github-core-clone","private":true,"type":"module","version":"1.0.0"}
